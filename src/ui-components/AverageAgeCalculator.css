@@ -1,0 +1,42 @@
+.calculator {
+    border: 0.2rem solid gray;
+    border-radius: .25rem;
+    padding: 5rem;
+    text-align: center;
+}
+
+.average-age {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.button {
+    margin: 5rem 0;
+    padding: 1rem 3rem;
+    font-weight: 700;
+    color: white;
+    border-radius: .25rem;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button-stop {
+    border: 1px solid rgb(87, 6, 6);
+    background-color: darkred;
+}
+
+.button-stop:hover {
+    background-color: rgb(87, 6, 6);
+}
+
+.button-start {
+    border: 1px solid rgb(7, 63, 119);
+    background-color: dodgerblue;
+}
+
+.button-start:hover {
+    background-color: rgb(7, 63, 119);
+}
